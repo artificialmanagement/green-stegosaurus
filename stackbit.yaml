@@ -40,7 +40,7 @@ models:
       - type: string
         label: Snipcart public API key
         name: snipcart_api_key
-        required: true
+        required: false
       - type: image
         name: favicon
         label: Favicon
